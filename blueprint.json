@@ -1,0 +1,24 @@
+{
+	"identifier": "startup-infrastructure",
+	"about": {
+		"title": "Startup infrastructure",
+		"explanation": "A binder blueprint that assembles the simplest collection of AWS services that could be required by apps"
+	},
+	"bindings": [
+		{
+			"target": {
+				"repository": "https://github.com/enginesAWS/startup-container-services"
+			}
+		},
+		{
+			"target": {
+				"repository": "https://github.com/enginesAWS/startup-service-cluster"
+			}
+		},
+		{
+			"target": {
+				"repository": "https://github.com/enginesAWS/startup-vpc"
+			}
+		}
+	]
+}
