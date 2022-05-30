@@ -6,16 +6,19 @@
 	},
 	"bindings": [
 		{
+			"type": "configure",
 			"target": {
 				"repository": "https://github.com/enginesAWS/startup-container-services"
 			}
 		},
 		{
+			"type": "configure",
 			"target": {
 				"repository": "https://github.com/enginesAWS/startup-service-cluster"
 			}
 		},
 		{
+			"type": "configure",
 			"target": {
 				"repository": "https://github.com/enginesAWS/startup-vpc"
 			}
