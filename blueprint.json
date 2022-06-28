@@ -8,6 +8,12 @@
 		{
 			"type": "configure",
 			"target": {
+				"repository": "https://github.com/enginesAWS/container_registry"
+			}
+		},
+		{
+			"type": "configure",
+			"target": {
 				"repository": "https://github.com/enginesAWS/startup-service-cluster"
 			}
 		},
