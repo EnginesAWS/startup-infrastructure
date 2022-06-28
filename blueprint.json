@@ -8,7 +8,7 @@
 		{
 			"type": "configure",
 			"target": {
-				"repository": "https://github.com/enginesAWS/container_registry"
+				"repository": "https://github.com/enginesAWS/container-registry"
 			}
 		},
 		{
